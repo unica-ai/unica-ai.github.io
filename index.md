@@ -25,8 +25,8 @@
 
 ## Exercises
 
-1. [Introduction to Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Exercises_Search.pdf)
-2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Exercises_Logical_languages.pdf)
-3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Exercises_Bayesian_networks.pdf)
+1. [Introduction to Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Search.pdf)
+2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Logical_languages.pdf)
+3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Bayesian_networks.pdf)
 
 
