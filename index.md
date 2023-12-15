@@ -23,4 +23,10 @@
 4. [Neural Networks](https://github.com/unica-ai.github.io/raw/main/slides/AI_ML_neural_network.pdf)
 
 
+## Exercises
+
+1. [Introduction to Machine Learning](https://github.com/unica-ai.github.io/raw/main/slides/AI_Exercises_Search.pdf)
+2. [Decision Trees](https://github.com/unica-ai.github.io/raw/main/slides/AI_Exercises_Logical_languages.pdf)
+3. [Performance Evaluation](https://github.com/unica-ai.github.io/raw/main/slides/AI_Exercises_Bayesian_networks.pdf)
+
 
