@@ -21,12 +21,12 @@
 2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_decision_trees.pdf)
 3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_performance_evaluation.pdf)
 4. [Neural Networks](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_neural_network.pdf)
-
+5. [Ensembles](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_ensembles.pdf)
 
 ## Exercises
 
 1. [Exercises about Graph Search](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Search.pdf)
 2. [Exercises about Knowledge Representation Using Logical Languages](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Logical_languages.pdf)
 3. [Exercises about Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Bayesian_networks.pdf)
-
+4. [Exercises about Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Machine_Learning.pdf)
 
