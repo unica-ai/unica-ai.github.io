@@ -1,14 +1,20 @@
 # Artificial Intelligence
 
+**University of Cagliari**
+
 **Academic Year:** 2024-2025
 
 **Instructors:** Prof. Giorgio Fumera, Dr. Ambra Demontis
 
 **MSc Programs in:**
 - Computer Engineering, Cybersecurity and Artificial Intelligence
-- Electronic Engineering 
+- Electronic Engineering
+- Internet Engineering
 
-**University of Cagliari**
+**Course description:**
+- [MSc in CECAI](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/9999/10983?coorte=2024&schemaid=4854)
+- [MSc in EE](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/1/10662?coorte=2023&schemaid=4635)
+- [MSc in IE](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2023/9999/10982?coorte=2024&schemaid=4849)
 
 ## Slides
 
