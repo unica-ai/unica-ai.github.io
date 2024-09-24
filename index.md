@@ -1,10 +1,10 @@
 # Artificial Intelligence
 
-**Academic Year 2023-2024** 
+**Academic Year 2024-2025** 
 
 **Instructors:** Prof. Giorgio Fumera and Dr. Ambra Demontis
 
-**MSc in Computer Engineering, Cybersecurity and Artificial Intelligence (Univ. Cagliari)**
+**MSc in Computer Engineering, Cybersecurity and Artificial Intelligence, and in Electronic Engineering (University of Cagliari)**
 
 ## Slides
 
