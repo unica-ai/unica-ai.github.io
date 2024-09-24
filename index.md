@@ -4,7 +4,9 @@
 
 **Instructors:** Prof. Giorgio Fumera and Dr. Ambra Demontis
 
-**MSc in Computer Engineering, Cybersecurity and Artificial Intelligence, and in Electronic Engineering (University of Cagliari)**
+**MSc** in **Computer Engineering, Cybersecurity and Artificial Intelligence**, and in **Electronic Engineering** 
+
+University of Cagliari
 
 ## Slides
 
