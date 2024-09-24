@@ -13,7 +13,7 @@
 1. [Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Introduction.pdf)
 2. [Graph Search](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Search.pdf)
 3. [Knowledge Representation Using Logical Languages](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_KBS.pdf)
-4. [Knowledge Representation and Inference Under Uncertainty: Bayesian Networks (soon available)]
+4. Knowledge Representation and Inference Under Uncertainty: Bayesian Networks (soon available)
 
 **Part II**
 
@@ -25,8 +25,8 @@
 
 ## Exercises
 
-1. [Exercises about Graph Search (soon available)]
-2. [Exercises about Knowledge Representation Using Logical Languages (soon available)]
-3. [Exercises about Bayesian Networks (soon available)]
+1. Exercises about Graph Search (soon available)
+2. Exercises about Knowledge Representation Using Logical Languages (soon available)
+3. Exercises about Bayesian Networks (soon available)
 4. [Exercises about Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Machine_Learning.pdf)
 
