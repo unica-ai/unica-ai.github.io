@@ -18,7 +18,7 @@
 
 ## Lecture schedule
 
-- Tue, Oct. 1: Graph search algorithms
+- Tue, Oct. 1: Introduction to the Artificial Intelligence field. Graph search algorithms
 - Wed, Oct. 2: Graph search algorithms
 - Thu, Oct. 3: Machine learning
 - Tue, Oct. 8: Graph search algorithms
