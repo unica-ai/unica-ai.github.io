@@ -61,14 +61,14 @@
 
 **Part II** – Machine Learning (A. Demontis)
 
-1. [Introduction to Machine Learning](*soon available*)
-2. [Decision Trees](*soon available*)
-3. [Performance Evaluation](*soon available*)
-4. [Neural Networks] (*soon available*)
-5. [Ensemble Methods] (*soon available*)
+1. Introduction to Machine Learning (*soon available*)
+2. Decision Trees (*soon available*)
+3. Performance Evaluation (*soon available*)
+4. Neural Networks (*soon available*)
+5. Ensemble Methods (*soon available*)
 ## Exercises
 
 1. Graph Search Problems (*soon available*)
 2. Logical Languages for Knowledge Representation and Reasoning (*soon available*)
 3. Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
-4. [Machine Learning] (*soon available*)
+4. Machine Learning (*soon available*)
