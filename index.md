@@ -16,6 +16,39 @@
 - [MSc in EE](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/1/10662?coorte=2023&schemaid=4635)
 - [MSc in IE](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2023/9999/10982?coorte=2024&schemaid=4849)
 
+## Lecture schedule
+
+- Tue, Oct. 1: Graph search algorithms
+- Wed, Oct. 2: Graph search algorithms
+- Thu, Oct. 3: Machine learning
+- Tue, Oct. 8: Graph search algorithms
+- Wed, Oct. 9: Graph search algorithms
+- Thu, Oct. 10: Machine Learning
+- Tue, Oct. 15: Graph search algorithms
+- Wed, Oct. 16: Logical languages for knowledge representation and reasoning
+- Thu, Oct. 17: Machine Learning
+- Tue, Oct. 22: Logical languages for knowledge representation and reasoning
+- Wed, Oct. 23: Logical languages for knowledge representation and reasoning
+- Thu, Oct. 24: Machine Learning
+- Tue, Oct. 29: Logical languages for knowledge representation and reasoning
+- Tue, Nov. 5: Machine Learning
+- Wed, Nov. 6: Logical languages for knowledge representation and reasoning
+- Tue, Nov. 12: Uncertain knowledge representation and reasoning: Bayesian networks
+- Wed, Nov. 13: Uncertain knowledge representation and reasoning: Bayesian networks
+- Thu, Nov. 14: Machine Learning
+- Tue, Nov. 19: Machine Learning
+- Wed, Nov. 20: Uncertain knowledge representation and reasoning: Bayesian networks
+- Thu, Nov. 21: Machine Learning
+- Tue, Nov. 26: Machine Learning
+- Wed, Nov. 27: Machine Learning
+- Tue, Dec. 3: Machine Learning
+- Wed, Dec. 4: Machine Learning
+- Tue, Dec. 10: Machine Learning
+- Wed, Dec. 11: Uncertain knowledge representation and reasoning: Bayesian networks
+- Thu, Dec. 12: Machine Learning
+- Tue, Dec. 17: Machine Learning
+- Wed, Dec. 12: Uncertain knowledge representation and reasoning: Bayesian networks
+
 ## Slides
 
 **Part I** – Problem-solving, Knowledge and Reasoning
