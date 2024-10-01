@@ -49,14 +49,15 @@
 - Tue, Dec. 17: Machine Learning
 - Wed, Dec. 12: Uncertain knowledge representation and reasoning: Bayesian networks
 
-## Slides
+## Lecture slides
+
+[Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Introduction.pdf)
 
 **Part I** – Problem-solving, Knowledge and Reasoning
 
-1. [Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Introduction.pdf)
-2. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Search.pdf)
-3. [Knowledge Representation and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_KBS.pdf)
-4. Uncertain Knowledge Representation and Reasoning: Bayesian Networks (*soon available*)
+1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Search.pdf)
+2. [Knowledge Representation and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_KBS.pdf)
+3. Uncertain Knowledge Representation and Reasoning: Bayesian Networks (*soon available*)
 
 **Part II** – Machine Learning
 
@@ -68,7 +69,7 @@
 
 ## Exercises
 
-1. Exercises about Graph Search Problems (*soon available*)
-2. Exercises about Logical Languages for Knowledge Representation and Reasoning (*soon available*)
-3. Exercises about Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
-4. [Exercises about Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Machine_Learning.pdf)
+1. Graph Search Problems (*soon available*)
+2. Logical Languages for Knowledge Representation and Reasoning (*soon available*)
+3. Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
+4. [Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Machine_Learning.pdf)
