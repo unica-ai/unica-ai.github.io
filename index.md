@@ -61,15 +61,14 @@
 
 **Part II** – Machine Learning (A. Demontis)
 
-1. [Introduction to Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_introduction.pdf)
-2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_decision_trees.pdf)
-3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_performance_evaluation.pdf)
-4. [Neural Networks](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_neural_network.pdf)
-5. [Ensemble Methods](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_ensembles.pdf)
-
+1. [Introduction to Machine Learning](*soon available*)
+2. [Decision Trees](*soon available*)
+3. [Performance Evaluation](*soon available*)
+4. [Neural Networks] (*soon available*)
+5. [Ensemble Methods] (*soon available*)
 ## Exercises
 
 1. Graph Search Problems (*soon available*)
 2. Logical Languages for Knowledge Representation and Reasoning (*soon available*)
 3. Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
-4. [Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Machine_Learning.pdf)
+4. [Machine Learning] (*soon available*)
