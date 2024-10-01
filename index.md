@@ -53,13 +53,13 @@
 
 [Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Introduction.pdf)
 
-**Part I** – Problem-solving, Knowledge and Reasoning
+**Part I** – Problem-solving, Knowledge and Reasoning (G. Fumera)
 
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Search.pdf)
 2. [Knowledge Representation and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_KBS.pdf)
 3. Uncertain Knowledge Representation and Reasoning: Bayesian Networks (*soon available*)
 
-**Part II** – Machine Learning
+**Part II** – Machine Learning (A. Demontis)
 
 1. [Introduction to Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_introduction.pdf)
 2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_decision_trees.pdf)
