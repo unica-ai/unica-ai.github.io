@@ -37,7 +37,7 @@
 - Tue, Nov. 26: Machine Learning
 - Wed, Nov. 27: Machine Learning
 - Tue, Dec. 3: Machine Learning
-- Wed, Dec. 4: Machine Learning
+- Wed, Dec. 5: Machine Learning
 - Tue, Dec. 10: Machine Learning
 - Wed, Dec. 11: Uncertain knowledge representation and reasoning: Bayesian networks
 - Thu, Dec. 12: Machine Learning
