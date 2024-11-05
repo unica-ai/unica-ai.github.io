@@ -67,3 +67,10 @@
 2. Logical Languages for Knowledge Representation and Reasoning (*soon available*)
 3. Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
 4. Machine Learning (*soon available*)
+
+## Exam data
+- Tue, Jan. 14, 14:00, Room 1
+- Tue, Feb. 4, 14:00, Room 1
+- Tue, Feb. 25, 14:00, Room C 
+
+
