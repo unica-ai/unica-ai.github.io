@@ -28,8 +28,9 @@
 - Tue, Oct. 29: Logical languages for knowledge representation and reasoning
 - Tue, Nov. 5: Machine Learning
 - Wed, Nov. 6: Logical languages for knowledge representation and reasoning
-- Tue, Nov. 12: Uncertain knowledge representation and reasoning: Bayesian networks
+- Tue, Nov. 12: Logical languages for knowledge representation and reasoning
 - Wed, Nov. 13: Uncertain knowledge representation and reasoning: Bayesian networks
+- Thu, Nov. 14: Uncertain knowledge representation and reasoning: Bayesian networks
 - Tue, Nov. 19: Machine Learning
 - Wed, Nov. 20: Uncertain knowledge representation and reasoning: Bayesian networks
 - Thu, Nov. 21: Machine Learning
