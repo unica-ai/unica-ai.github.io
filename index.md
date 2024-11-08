@@ -62,6 +62,7 @@
 3. Performance Evaluation (*soon available*)
 4. Neural Networks (*soon available*)
 5. Ensemble Methods (*soon available*)
+
 ## Exercises
 
 1. Graph Search Problems (*soon available*)
@@ -69,9 +70,7 @@
 3. Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
 4. Machine Learning (*soon available*)
 
-## Exam data
+## Exam dates
 - Tue, Jan. 14, 14:00, Room 1
 - Tue, Feb. 4, 14:00, Room 1
 - Tue, Feb. 25, 14:00, Room C 
-
-
