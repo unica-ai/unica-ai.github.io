@@ -66,12 +66,12 @@
 
 ## Exercises
 
-1. Graph Search Problems (*soon available*)
+1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Search_Exercises.pdf)
 2. Logical Languages for Knowledge Representation and Reasoning (*soon available*)
 3. Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
 4. Machine Learning (*soon available*)
 
 ## Exam dates
-- Tue, Jan. 14, 14:00, Room 1
-- Tue, Feb. 4, 14:00, Room 1
-- Tue, Feb. 25, 14:00, Room C 
+- Tue., Jan. 14, 14:00, Room 1
+- Tue., Feb. 4, 14:00, Room 1
+- Tue., Feb. 25, 14:00, Room C 
