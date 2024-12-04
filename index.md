@@ -67,7 +67,7 @@
 ## Exercises
 
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Search_Exercises.pdf)
-2. [Logical Languages for Knowledge Representation and Reasoning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_performance_evaluation.pdf)
+2. [Logical Languages for Knowledge Representation and Reasoning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Logic_Exercises.pdf)
 3. Bayesian Networks for Uncertain Knowledge Representation and Reasoning (*soon available*)
 4. Machine Learning (*soon available*)
 
