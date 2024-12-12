@@ -41,10 +41,9 @@
 - Thu, Dec. 5: Machine Learning
 - Tue, Dec. 10: Machine Learning
 - Wed, Dec. 11: Uncertain knowledge representation and reasoning: Bayesian networks
-- Thu, Dec. 12: Machine Learning
-- Tue, Dec. 17: Machine Learning
+- Tue, Dec. 17 (exceptionaly from 15 to 18): Machine Learning
 - Wed, Dec. 18: Uncertain knowledge representation and reasoning: Bayesian networks
-- Thu, Nov. 19: Machine Learning
+- Thu, Nov. 19 (exceptionaly from 11 to 14): Machine Learning
 
 ## Lecture slides
 
