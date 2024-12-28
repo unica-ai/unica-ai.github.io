@@ -65,7 +65,7 @@
 
 ## Exercises
 
-1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Search_Exercises.pdf)
+1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Search_Exercises.pdf)
 2. [Logical Languages for Knowledge Representation and Reasoning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Logic_Exercises.pdf) (**updated on Dec. 15, 2024**: correction to the solution of exercise 2(b) on propositional logic)
 3. [Bayesian Networks for Uncertain Knowledge Representation and Reasoning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_BN_Exercises.pdf)
 4. [Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Machine_Learning.pdf)
