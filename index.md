@@ -53,14 +53,14 @@
 
 1. [Graph Search Problems](slides/AI_Search.pdf)
 2. [Knowledge Representation and Reasoning: Logical Languages](slides/AI_KBS.pdf) (**updated on Oct. 29, 2024**)
-3. [Uncertain Knowledge Representation and Reasoning: Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_BN.pdf) (**updated on Dec. 18, 2024**)
+3. [Uncertain Knowledge Representation and Reasoning: Bayesian Networks](slides/AI_BN.pdf) (**updated on Dec. 18, 2024**)
 
 **Part II** – Machine Learning (A. Demontis)
 
-1. [Introduction to Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_introduction.pdf)
-2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_decision_trees.pdf)
-3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_performance_evaluation.pdf)
-4. [Neural Networks](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_ML_neural_network.pdf)
+1. [Introduction to Machine Learning](slides/AI_ML_introduction.pdf)
+2. [Decision Trees](slides/AI_ML_decision_trees.pdf)
+3. [Performance Evaluation](slides/AI_ML_performance_evaluation.pdf)
+4. [Neural Networks](slides/AI_ML_neural_network.pdf)
 5. Ensemble Methods (*soon available*)
 
 ## Exercises
@@ -68,7 +68,7 @@
 1. [Graph Search Problems](exercises/AI_Search_Exercises.pdf)
 2. [Logical Languages for Knowledge Representation and Reasoning](exercises/AI_Logic_Exercises.pdf) (**updated on Dec. 15, 2024**: correction to the solution of exercise 2(b) on propositional logic)
 3. [Bayesian Networks for Uncertain Knowledge Representation and Reasoning](exercises/AI_BN_Exercises.pdf)
-4. [Machine Learning](https://github.com/unica-ai/unica-ai.github.io/raw/main/exercises/AI_Exercises_Machine_Learning.pdf)
+4. [Machine Learning](exercises/AI_Exercises_Machine_Learning.pdf)
 
 ## Exam dates
 - Tue., Jan. 14, 14:00, Room 1
