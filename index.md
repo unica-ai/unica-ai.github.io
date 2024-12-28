@@ -52,7 +52,7 @@
 **Part I** – Problem-solving, Knowledge and Reasoning (G. Fumera)
 
 1. [Graph Search Problems](slides/AI_Search.pdf)
-2. [Knowledge Representation and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_KBS.pdf) (**updated on Oct. 29, 2024**)
+2. [Knowledge Representation and Reasoning: Logical Languages](slides/AI_KBS.pdf) (**updated on Oct. 29, 2024**)
 3. [Uncertain Knowledge Representation and Reasoning: Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_BN.pdf) (**updated on Dec. 18, 2024**)
 
 **Part II** – Machine Learning (A. Demontis)
