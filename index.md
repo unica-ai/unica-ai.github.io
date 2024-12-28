@@ -47,7 +47,7 @@
 
 ## Lecture slides
 
-[Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/raw/main/slides/AI_Introduction.pdf)
+[Introduction to AI](slides/AI_Introduction.pdf)
 
 **Part I** – Problem-solving, Knowledge and Reasoning (G. Fumera)
 
