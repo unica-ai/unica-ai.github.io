@@ -73,4 +73,4 @@
 ## Exam dates
 - Tue., Jan. 14, 14:00, Room 1
 - Tue., Feb. 4, 14:00, Room 1
-- Tue., Feb. 25, 14:00, Room C 
+- Tue., Feb. 26, 14:00, Room C 
