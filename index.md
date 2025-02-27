@@ -61,7 +61,7 @@
 2. [Decision Trees](slides/AI_ML_decision_trees.pdf)
 3. [Performance Evaluation](slides/AI_ML_performance_evaluation.pdf)
 4. [Neural Networks](slides/AI_ML_neural_network.pdf)
-5. Ensemble Methods (*soon available*)
+5. [Ensemble Methods](slides/AI_ensembles.pdf)
 
 ## Exercises
 
