@@ -4,7 +4,7 @@
 
 **Academic year:** 2025-2026
 
-**Instructors:** Prof. Giorgio Fumera, Dr. Ambra Demontis
+**Instructors:** Prof. [Giorgio Fumera](https://www.unica.it/unica/page/it/giorgio_fumera), Dr. [Ambra Demontis](https://web.unica.it/unica/page/en/ambra_demontis)
 
 **MSc programs in:**
 - Computer Engineering, Cybersecurity and Artificial Intelligence ([course description](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/9999/10983?coorte=2024&schemaid=4854))
