@@ -18,7 +18,7 @@
 - Tue, Oct. 7: Machine Learning
 - Thu, Oct. 9: Graph search problems
 - Tue, Oct. 14: Machine Learning
-- Thu, Oct. 16: Graph search algorithms. Knowledge and reasoning: logical languages
+- Thu, Oct. 16: Graph search problems. Knowledge and reasoning: logical languages
 - Tue, Oct. 21: Machine Learning
 - Thu, Oct. 23: Knowledge and reasoning: logical languages
 - Tue, Oct. 28: Machine Learning
@@ -41,8 +41,8 @@ Introduction to AI (available soon)
 **Part I** – Graph Search Problems, Knowledge and Reasoning (G. Fumera)
 
 1. Graph Search Problems (available soon)
-2. Knowledge Representation and Reasoning: Logical Languages (available soon)
-3. Uncertain Knowledge Representation and Reasoning: Bayesian Networks (available soon)
+2. Knowledge and Reasoning: Logical Languages (available soon)
+3. Uncertain Knowledge and Reasoning: Bayesian Networks (available soon)
 
 **Part II** – Machine Learning (A. Demontis)
 
