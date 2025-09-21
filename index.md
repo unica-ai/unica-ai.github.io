@@ -2,7 +2,7 @@
 
 **University of Cagliari**
 
-**Academic year:** 2024-2025
+**Academic year:** 2025-2026
 
 **Instructors:** Prof. Giorgio Fumera, Dr. Ambra Demontis
 
@@ -13,47 +13,36 @@
 
 ## Lecture schedule
 
-- Tue, Oct. 1: Introduction to the Artificial Intelligence field. Graph search algorithms
-- Wed, Oct. 2: Graph search algorithms
-- Thu, Oct. 3: Machine learning
-- Tue, Oct. 8: Graph search algorithms
-- Wed, Oct. 9: Graph search algorithms
-- Thu, Oct. 10: Machine Learning
-- Tue, Oct. 15: Graph search algorithms
-- Wed, Oct. 16: Logical languages for knowledge representation and reasoning
-- Thu, Oct. 17: Machine Learning
-- Tue, Oct. 22: Logical languages for knowledge representation and reasoning
-- Wed, Oct. 23: Logical languages for knowledge representation and reasoning
-- Thu, Oct. 24: Machine Learning
-- Tue, Oct. 29: Logical languages for knowledge representation and reasoning
-- Tue, Nov. 5: Machine Learning
-- Wed, Nov. 6: Logical languages for knowledge representation and reasoning
-- Tue, Nov. 12: Logical languages for knowledge representation and reasoning
-- Wed, Nov. 13: Uncertain knowledge representation and reasoning: Bayesian networks
-- Thu, Nov. 14: Uncertain knowledge representation and reasoning: Bayesian networks
-- Tue, Nov. 19: Machine Learning
-- Wed, Nov. 20: Uncertain knowledge representation and reasoning: Bayesian networks
-- Thu, Nov. 21: Machine Learning
-- Tue, Nov. 26: Machine Learning
-- Wed, Nov. 27: Machine Learning
-- Tue, Dec. 3: Machine Learning
-- Wed, Dec. 4: Machine Learning
-- Thu, Dec. 5: Machine Learning
-- Tue, Dec. 10: Machine Learning
-- Wed, Dec. 11: Uncertain knowledge representation and reasoning: Bayesian networks
-- Tue, Dec. 17 (exceptionaly from 15 to 18): Machine Learning
-- Wed, Dec. 18: Uncertain knowledge representation and reasoning: Bayesian networks
-- Thu, Nov. 19 (exceptionaly from 11 to 14): Machine Learning
+- Tue, Sept. 29: Introduction to Artificial Intelligence. Graph search problems
+- Thu, Oct. 2: Graph search problems
+- Tue, Oct. 7: Machine Learning
+- Thu, Oct. 9: Graph search problems
+- Tue, Oct. 14: Machine Learning
+- Thu, Oct. 16: Graph search algorithms. Knowledge and reasoning: logical languages
+- Tue, Oct. 21: Machine Learning
+- Thu, Oct. 23: Knowledge and reasoning: logical languages
+- Tue, Oct. 28: Machine Learning
+- Tue, Nov. 4: Machine Learning
+- Thu, Nov. 6: Knowledge and reasoning: logical languages
+- Thu, Nov. 13: Knowledge and reasoning: logical languages. Uncertain knowledge and reasoning: probability theory
+- Tue, Nov. 18: Machine Learning
+- Thu, Nov. 20: Uncertain knowledge and reasoning: probability theory
+- Tue, Nov. 25: Machine Learning
+- Tue, Dec. 2: Machine Learning
+- Thu, Dec. 4: Uncertain knowledge and reasoning: Bayesian networks 
+- Tue, Dec. 9: Machine Learning
+- Thu, Dec. 11: Uncertain knowledge and reasoning: Bayesian networks
+- Tue, Dec. 16: Machine Learning
 
 ## Lecture slides
 
-[Introduction to AI](slides/AI_Introduction.pdf)
+Introduction to AI (available soon)
 
-**Part I** – Problem-solving, Knowledge and Reasoning (G. Fumera)
+**Part I** – Graph Search Problems, Knowledge and Reasoning (G. Fumera)
 
-1. [Graph Search Problems](slides/AI_Search.pdf)
-2. [Knowledge Representation and Reasoning: Logical Languages](slides/AI_KBS.pdf) (**updated on Oct. 29, 2024**)
-3. [Uncertain Knowledge Representation and Reasoning: Bayesian Networks](slides/AI_BN.pdf) (**updated on Dec. 18, 2024**)
+1. Graph Search Problems (available soon)
+2. Knowledge Representation and Reasoning: Logical Languages (available soon)
+3. Uncertain Knowledge Representation and Reasoning: Bayesian Networks (available soon)
 
 **Part II** – Machine Learning (A. Demontis)
 
@@ -65,12 +54,10 @@
 
 ## Exercises
 
-1. [Graph Search Problems](exercises/AI_Search_Exercises.pdf)
-2. [Logical Languages for Knowledge Representation and Reasoning](exercises/AI_Logic_Exercises.pdf) (**updated on Dec. 15, 2024**: correction to the solution of exercise 2(b) on propositional logic)
-3. [Bayesian Networks for Uncertain Knowledge Representation and Reasoning](exercises/AI_BN_Exercises.pdf)
+1. Graph Search Problems (available soon)
+2. Logical Languages (available soon)
+3. Bayesian Networks (available soon)
 4. [Machine Learning](exercises/AI_Exercises_Machine_Learning.pdf)
 
 ## Exam dates
-- Tue., Jan. 14, 14:00, Room 1
-- Tue., Feb. 4, 14:00, Room 1
-- Tue., Feb. 26, 14:00, Room C 
+- Wed., Nov. 5, 15:00 (only for students enrolled as "fuori corso")
