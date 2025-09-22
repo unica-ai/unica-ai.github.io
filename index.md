@@ -13,7 +13,7 @@
 
 ## Lecture schedule
 
-- Tue, Sept. 29: Introduction to Artificial Intelligence. Graph search problems
+- Tue, Sept. 30: Introduction to Artificial Intelligence. Graph search problems
 - Thu, Oct. 2: Graph search problems
 - Tue, Oct. 7: Machine Learning
 - Thu, Oct. 9: Graph search problems
@@ -24,6 +24,7 @@
 - Tue, Oct. 28: Machine Learning
 - Tue, Nov. 4: Machine Learning
 - Thu, Nov. 6: Knowledge and reasoning: logical languages
+- Tue, Nov. 11: Machine Learning
 - Thu, Nov. 13: Knowledge and reasoning: logical languages. Uncertain knowledge and reasoning: probability theory
 - Tue, Nov. 18: Machine Learning
 - Thu, Nov. 20: Uncertain knowledge and reasoning: probability theory
@@ -32,7 +33,6 @@
 - Thu, Dec. 4: Uncertain knowledge and reasoning: Bayesian networks 
 - Tue, Dec. 9: Machine Learning
 - Thu, Dec. 11: Uncertain knowledge and reasoning: Bayesian networks
-- Tue, Dec. 16: Machine Learning
 
 ## Lecture slides
 
