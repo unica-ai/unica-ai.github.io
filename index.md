@@ -46,18 +46,18 @@ Introduction to AI (available soon)
 
 **Part II** – Machine Learning (A. Demontis)
 
-1. [Introduction to Machine Learning](slides/AI_ML_introduction.pdf)
-2. [Decision Trees](slides/AI_ML_decision_trees.pdf)
-3. [Performance Evaluation](slides/AI_ML_performance_evaluation.pdf)
-4. [Neural Networks](slides/AI_ML_neural_network.pdf)
-5. [Ensemble Methods](slides/AI_ensembles.pdf)
-
+1. Introduction to Machine Learning
+2. Decision Trees 
+3. Performance Evaluation
+4. Neural Networks
+5. Ensemble Methods
+   
 ## Exercises
 
 1. Graph Search Problems (available soon)
 2. Logical Languages (available soon)
 3. Bayesian Networks (available soon)
-4. [Machine Learning](exercises/AI_Exercises_Machine_Learning.pdf)
+4. Machine Learning
 
 ## Exam dates
 - Wed., Nov. 5, 15:00 (only for students enrolled as "fuori corso")
