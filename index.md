@@ -36,11 +36,11 @@
 
 ## Lecture slides
 
-Introduction to AI (available soon)
+[Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Introduction.pdf)
 
 **Part I** – Graph Search Problems, Knowledge and Reasoning (G. Fumera)
 
-1. Graph Search Problems (available soon)
+1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf)
 2. Knowledge and Reasoning: Logical Languages (available soon)
 3. Uncertain Knowledge and Reasoning: Bayesian Networks (available soon)
 
