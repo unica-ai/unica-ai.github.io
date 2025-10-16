@@ -41,7 +41,7 @@
 **Part I** – Graph Search Problems, Knowledge and Reasoning (G. Fumera)
 
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf)
-2. Knowledge and Reasoning: Logical Languages (available soon)
+2. [Knowledge and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_KBS.pdf)
 3. Uncertain Knowledge and Reasoning: Bayesian Networks (available soon)
 
 **Part II** – Machine Learning (A. Demontis)
