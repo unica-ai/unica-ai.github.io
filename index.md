@@ -48,7 +48,7 @@
 
 1. [Introduction to Machine Learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_introduction.pdf)
 2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_decision_trees.pdf) 
-3. Performance Evaluation (available soon)
+3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_performance_evaluation.pdf) 
 4. Neural Networks (available soon)
 5. Ensemble Methods (available soon)
    
