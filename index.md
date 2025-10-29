@@ -61,3 +61,6 @@
 
 ## Exam dates
 - Wed., Nov. 5, 15:00 (only for students enrolled as "fuori corso")
+- Wed., Jan. 14, 14:00
+- Wed., Jan. 28, 14:00
+- Tue., Feb. 17, 14:00 
