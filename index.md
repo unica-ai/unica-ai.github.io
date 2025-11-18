@@ -51,10 +51,10 @@
 1. [Introduction to Machine Learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_introduction.pdf)
 2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_decision_trees.pdf) 
 3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_performance_evaluation.pdf) 
-4. Neural Networks (available soon)
+4. [Neural Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_neural_network.pdf) 
 5. Ensemble Methods (available soon)
    
-## Exercises
+## ExerciseslunaG0HnuovalunaG0Hnuova
 
 1. Graph Search Problems (available soon)
 2. Logical Languages (available soon)
