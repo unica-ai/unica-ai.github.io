@@ -33,7 +33,7 @@
 - Thu., Dec. 4: Uncertain knowledge and reasoning: probability theory 
 - Tue., Dec. 9: Machine Learning
 - Thu., Dec. 11: Uncertain knowledge and reasoning: Bayesian networks
-- Tue., Dec. 16: Uncertain knowledge and reasoning: Bayesian networks
+- Thu., Dec. 18: Uncertain knowledge and reasoning: Bayesian networks
 
 ## Lecture slides
 
