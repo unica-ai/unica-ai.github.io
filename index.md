@@ -7,9 +7,9 @@
 **Instructors:** Prof. [Giorgio Fumera](https://www.unica.it/unica/page/it/giorgio_fumera), Dr. [Ambra Demontis](https://web.unica.it/unica/page/en/ambra_demontis)
 
 **MSc programs in:**
-- Computer Engineering, Cybersecurity and Artificial Intelligence ([course description](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/9999/10983?coorte=2024&schemaid=4854))
-- Electronic Engineering ([course description](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/1/10662?coorte=2023&schemaid=4635))
-- Internet Engineering ([course description](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2023/9999/10982?coorte=2024&schemaid=4849))
+- Computer Engineering, Cybersecurity and Artificial Intelligence ([official course description](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/9999/10983?coorte=2024&schemaid=4854))
+- Electronic Engineering ([official course description](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2018/1/10662?coorte=2023&schemaid=4635))
+- Internet Engineering ([official course description](https://unica.coursecatalogue.cineca.it/insegnamenti/2024/19989/2023/9999/10982?coorte=2024&schemaid=4849))
 
 ## Lecture schedule
 
