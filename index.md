@@ -54,7 +54,7 @@
 4. [Neural Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_neural_network.pdf) 
 5. Ensemble Methods (available soon)
    
-## ExerciseslunaG0HnuovalunaG0Hnuova
+## Exercises
 
 1. Graph Search Problems (available soon)
 2. Logical Languages (available soon)
