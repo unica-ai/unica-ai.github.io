@@ -56,13 +56,12 @@
    
 ## Exercises
 
-1. Graph Search Problems (available soon)
-2. Logical Languages (available soon)
+1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Search_Exercises.pdf)
+2. [Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Logic_Exercises.pdf)
 3. Bayesian Networks (available soon)
 4. Machine Learning (available soon)
 
 ## Exam dates
-- Wed., Nov. 5, 15:00 (only for students enrolled as "fuori corso")
 - Wed., Jan. 14, 14:00
 - Wed., Jan. 28, 14:00
 - Tue., Feb. 17, 14:00 
