@@ -44,7 +44,7 @@
 
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf)
 2. [Knowledge and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_KBS.pdf)
-3. Uncertain Knowledge and Reasoning: Bayesian Networks (available soon)
+3. [Uncertain Knowledge and Reasoning: Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN_1st_part.pdf)
 
 **Part II** – Machine Learning (A. Demontis)
 
