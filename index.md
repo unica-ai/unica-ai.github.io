@@ -48,9 +48,9 @@
 
 **Part II** – Machine Learning (A. Demontis)
 
-1. [Introduction to Machine Learning](https://unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_introduction.pdf)
-2. [Decision Trees](https://unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_decision_trees.pdf) 
-3. [Performance Evaluation](https://unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_performance_evaluation.pdf) 
+1. [Introduction to Machine Learning](slides/AI_ML_introduction.pdf)
+2. [Decision Trees](slides/AI_ML_decision_trees.pdf) 
+3. [Performance Evaluation](slides/AI_ML_performance_evaluation.pdf) 
 4. [Neural Networks](slides/AI_ML_neural_network.pdf) 
 5. Ensemble Methods (available soon)
    
