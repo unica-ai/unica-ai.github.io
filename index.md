@@ -38,13 +38,13 @@
 
 ## Lecture slides
 
-[Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Introduction.pdf)
+[Introduction to AI](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Introduction.pdf?raw=1)
 
 **Part I** – Graph Search Problems, Knowledge and Reasoning (G. Fumera)
 
-1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf)
-2. [Knowledge and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_KBS.pdf)
-3. [Uncertain Knowledge and Reasoning: Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN_1st_part.pdf)
+1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf?raw=1)
+2. [Knowledge and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_KBS.pdf?raw=1)
+3. [Uncertain Knowledge and Reasoning: Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN_1st_2nd_parts.pdf?raw=1) *(updated on Dec. 10, 2025)*
 
 **Part II** – Machine Learning (A. Demontis)
 
@@ -56,8 +56,8 @@
    
 ## Exercises
 
-1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Search_Exercises.pdf)
-2. [Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Logic_Exercises.pdf)
+1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Search_Exercises.pdf?raw=1)
+2. [Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Logic_Exercises.pdf?raw=1)
 3. Bayesian Networks (available soon)
 4. Machine Learning (available soon)
 
