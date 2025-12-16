@@ -52,7 +52,7 @@
 2. [Decision Trees](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_decision_trees.pdf?raw=1) 
 3. [Performance Evaluation](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_performance_evaluation.pdf?raw=1) 
 4. [Neural Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_neural_network.pdf?raw=1) 
-5. Ensemble Methods (available soon)
+5. [Ensemble Methods](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Ensembles.pdf?raw=1)
    
 ## Exercises
 
