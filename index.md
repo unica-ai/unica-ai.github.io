@@ -59,8 +59,8 @@
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Search_Exercises.pdf?raw=1)
 2. [Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Logic_Exercises.pdf?raw=1)
 3. Bayesian Networks (available soon)
-4. Machine Learning (available soon)
-
+4. [Machine Learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Exercises_Machine_Learning.pdf?raw=1)
+   
 ## Exam dates
 - Wed., Jan. 14, 14:00
 - Wed., Jan. 28, 14:00
