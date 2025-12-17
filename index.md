@@ -44,7 +44,7 @@
 
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf?raw=1)
 2. [Knowledge and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_KBS.pdf?raw=1)
-3. [Uncertain Knowledge and Reasoning: Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN_1st_2nd_parts.pdf?raw=1) *(updated on Dec. 10, 2025)*
+3. Uncertain Knowledge and Reasoning: Bayesian Networks: [lecture slides](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN.pdf?raw=1) **(updated on Dec. 17, 2025)** and in-class [exercises](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN_exercises.pdf?raw=1)
 
 **Part II** – Machine Learning (A. Demontis)
 
@@ -62,6 +62,6 @@
 4. [Machine Learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Exercises_Machine_Learning.pdf?raw=1)
    
 ## Exam dates
-- Wed., Jan. 14, 14:00
-- Wed., Jan. 28, 14:00
-- Tue., Feb. 17, 14:00 
+- Wed., Jan. 14, 14h, room IAN_2A (formerly room 1)
+- Wed., Jan. 28, 14h, room IAN_2A (formerly room 1)
+- Tue., Feb. 17, 14h, room IAN_2A (formerly room 1)
