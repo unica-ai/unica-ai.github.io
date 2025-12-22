@@ -44,7 +44,7 @@
 
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf?raw=1)
 2. [Knowledge and Reasoning: Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_KBS.pdf?raw=1)
-3. Uncertain Knowledge and Reasoning: Bayesian Networks: [lecture slides](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN.pdf?raw=1) **(updated on Dec. 17, 2025)** and in-class [exercises](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN_exercises.pdf?raw=1)
+3. [Uncertain Knowledge and Reasoning: Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_BN.pdf?raw=1) **(updated on Dec. 17, 2025)**
 
 **Part II** – Machine Learning (A. Demontis)
 
@@ -58,7 +58,7 @@
 
 1. [Graph Search Problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Search_Exercises.pdf?raw=1)
 2. [Logical Languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Logic_Exercises.pdf?raw=1)
-3. Bayesian Networks (available soon)
+3. [Bayesian Networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_BN_Exercises.pdf?raw=1)
 4. [Machine Learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Exercises_Machine_Learning.pdf?raw=1)
    
 ## Exam dates
