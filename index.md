@@ -38,11 +38,11 @@
 
 ## Lecture slides
 
-[Course introduction](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Introduction.pdf?raw=1)
+[Course introduction](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/Introduction.pdf?raw=1)
 
 **Part I** – Problem-solving, Knowledge and Reasoning (G. Fumera)
 
-1. [Search problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_slides_Search.pdf?raw=1)
+1. [Search problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/Search Problems.pdf?raw=1)
 2. Knowledge and reasoning: logical languages (slides available soon)
 3. Knowledge and reasoning under unertainty: probabilistic models (Bayesian networks) (slides available soon)
 
