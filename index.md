@@ -48,18 +48,18 @@
 
 **Part II** – Machine Learning (A. Demontis)
 
-1. [Introduction to Machine learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_introduction.pdf?raw=1)
-2. [Decision trees](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_decision_trees.pdf?raw=1) 
-3. [Performance evaluation](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_performance_evaluation.pdf?raw=1) 
-4. [Neural networks](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_ML_neural_network.pdf?raw=1) 
-5. [Ensemble methods](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/AI_Ensembles.pdf?raw=1)
+1. Introduction to Machine learning (slides available soon)
+2. Decision trees (slides available soon)
+3. Performance evaluation (slides available soon) 
+4. Neural networks (slides available soon) 
+5. Ensemble methods (slides available soon)
    
 ## Exercises
 
 1. Search problems (available soon)
 2. Knowledge and reasoning: logical languages (available soon)
 3. Bayesian networks (available soon)
-4. [Machine learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Exercises_Machine_Learning.pdf?raw=1)
+4. Machine learning (available soon)
    
 ## Next exams
 - Mon., Oct. 26, 15:30 (**only for students enrolled as "fuori corso"**)
