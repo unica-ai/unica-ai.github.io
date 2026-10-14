@@ -20,20 +20,21 @@
 - Tue., Oct. 6: Machine learning
 - Thu., Oct. 8: Search problems
 - Tue., Oct. 13: Machine Learning
-- Thu., Oct. 15: Search problems. Knowledge and reasoning: logical languages
+- Thu., Oct. 15: CANCELLED
 - Tue., Oct. 20: Machine Learning
-- Thu., Oct. 22: Knowledge and reasoning: logical languages
+- Thu., Oct. 22: Search problems
 - Tue., Oct. 27: Machine Learning
 - Thu., Oct. 29: Knowledge and reasoning: logical languages
 - Tue., Nov. 3: Machine Learning
 - Thu., Nov. 5: Knowledge and reasoning: logical languages
 - Tue., Nov. 10: Machine Learning
-- Thu., Nov. 12: Knowledge and reasoning under unertainty: probabilistic models
+- Thu., Nov. 12: Knowledge and reasoning: logical languages
 - Tue., Nov. 17: Machine Learning
-- Thu., Nov. 19: Bayesian networks
+- Thu., Nov. 19: Knowledge and reasoning under unertainty: probabilistic models
 - Tue., Nov. 24: Machine Learning
 - Thu., Nov. 26: Bayesian networks
 - Tue., Dec. 1st: Machine Learning
+- Thu., Dec. 3: Bayesian networks
 - Tue., Dec. 15: Machine Learning
 
 ## Lecture slides
