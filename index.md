@@ -21,7 +21,7 @@
 - Thu., Oct. 8: Search problems
 - Tue., Oct. 13: Machine Learning
 - Thu., Oct. 15: CANCELLED
-- Tue., Oct. 20: Machine Learning
+- Tue., Oct. 20: CANCELLED
 - Thu., Oct. 22: Search problems
 - Tue., Oct. 27: Machine Learning
 - Thu., Oct. 29: Knowledge and reasoning: logical languages
