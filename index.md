@@ -35,6 +35,7 @@
 - Thu., Nov. 26: Bayesian networks
 - Tue., Dec. 1st: Machine Learning
 - Thu., Dec. 3: Bayesian networks
+- Thu., Dec. 10: Machine Learning
 - Tue., Dec. 15: Machine Learning
 
 ## Lecture slides
