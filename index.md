@@ -50,8 +50,8 @@
 
 **Part II** – Machine Learning (A. Demontis)
 
-1. Introduction to Machine learning (slides available soon)
-2. Decision trees (slides available soon)
+1. [Introduction to Machine learning](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/ML_introduction.pdf?raw=1)
+2. [Decision trees](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/ML_decision_trees?raw=1.pdf)
 3. Performance evaluation (slides available soon) 
 4. Neural networks (slides available soon) 
 5. Ensemble methods (slides available soon)
