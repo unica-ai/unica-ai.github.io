@@ -4,7 +4,7 @@
 
 **Academic year:** 2026-2027
 
-**Instructors:** Prof. [Giorgio Fumera](https://www.unica.it/unica/page/en/giorgio_fumera), Prof. [Ambra Demontis](https://web.unica.it/unica/page/en/ambra_demontis)
+**Instructors:** Prof. [Giorgio Fumera](https://www.unica.it/unica/page/en/giorgio_fumera), Prof. [Ambra Demontis](https://web.unica.it/unica/page/en/ambra_demontis), Dr. [Maura Pintor](https://web.unica.it/unica/page/en/maura_pintor)
 
 **MSc programs in:**
 - Computer Engineering, Cybersecurity and Artificial Intelligence
@@ -17,13 +17,13 @@
 
 - Tue., Sept. 29: Course introduction, search problems
 - Thu., Oct. 1st: Search problems
-- Tue., Oct. 6: Machine learning
+- Tue., Oct. 6: Machine learning: introduction
 - Thu., Oct. 8: Search problems
-- Tue., Oct. 13: Machine Learning
+- Tue., Oct. 13: Machine Learning: search trees
 - Thu., Oct. 15: CANCELLED
 - Tue., Oct. 20: CANCELLED
 - Thu., Oct. 22: Search problems
-- Tue., Oct. 27: Machine Learning
+- Tue., Oct. 27: Machine Learning: search trees
 - Thu., Oct. 29: Knowledge and reasoning: logical languages
 - Tue., Nov. 3: Machine Learning
 - Thu., Nov. 5: Knowledge and reasoning: logical languages
@@ -58,7 +58,7 @@
    
 ## Exercises
 
-1. Search problems (available soon)
+1. [Search problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Exercises_Search_problems.pdf?raw=1)
 2. Knowledge and reasoning: logical languages (available soon)
 3. Bayesian networks (available soon)
 4. Machine learning (available soon)
