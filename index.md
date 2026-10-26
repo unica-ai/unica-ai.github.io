@@ -19,18 +19,18 @@
 - Thu., Oct. 1st: Search problems
 - Tue., Oct. 6: Machine learning: introduction
 - Thu., Oct. 8: Search problems
-- Tue., Oct. 13: Machine Learning: search trees
+- Tue., Oct. 13: Machine Learning: decision trees
 - Thu., Oct. 15: CANCELLED
 - Tue., Oct. 20: CANCELLED
 - Thu., Oct. 22: Search problems
-- Tue., Oct. 27: Machine Learning: search trees
+- Tue., Oct. 27: Machine Learning: decision trees
 - Thu., Oct. 29: Knowledge and reasoning: logical languages
 - Tue., Nov. 3: Machine Learning
 - Thu., Nov. 5: Knowledge and reasoning: logical languages
-- Tue., Nov. 10: Machine Learning
-- Thu., Nov. 12: Knowledge and reasoning: logical languages
+- Tue., Nov. 10: Knowledge and reasoning: logical languages
+- Thu., Nov. 12: Machine Learning
 - Tue., Nov. 17: Machine Learning
-- Thu., Nov. 19: Knowledge and reasoning under unertainty: probabilistic models
+- Thu., Nov. 19: Knowledge and reasoning under uncertainty: probabilistic models
 - Tue., Nov. 24: Machine Learning
 - Thu., Nov. 26: Bayesian networks
 - Tue., Dec. 1st: Machine Learning
@@ -62,6 +62,3 @@
 2. Knowledge and reasoning: logical languages (available soon)
 3. Bayesian networks (available soon)
 4. Machine learning (available soon)
-   
-## Next exams
-- Mon., Oct. 26, 15:30 (**only for students enrolled as "fuori corso"**)
