@@ -45,7 +45,7 @@
 **Part I** – Problem-solving, Knowledge and Reasoning (G. Fumera)
 
 1. [Search problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/Search%20Problems.pdf?raw=1)
-2. Knowledge and reasoning: logical languages (slides available soon)
+2. [Knowledge and reasoning: logical languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/3_Knowledge%20and%20Reasoning_Logical%20Languages.pdf?raw=1) (1st part)
 3. Knowledge and reasoning under unertainty: probabilistic models (Bayesian networks) (slides available soon)
 
 **Part II** – Machine Learning (A. Demontis)
