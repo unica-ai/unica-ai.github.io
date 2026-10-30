@@ -29,7 +29,6 @@
 - Thu., Nov. 5: Knowledge and reasoning: logical languages
 - Tue., Nov. 10: Knowledge and reasoning: logical languages
 - Thu., Nov. 12: Machine Learning
-- Tue., Nov. 17: Machine Learning
 - Thu., Nov. 19: Knowledge and reasoning under uncertainty: probabilistic models
 - Tue., Nov. 24: Machine Learning
 - Thu., Nov. 26: Bayesian networks
@@ -37,6 +36,7 @@
 - Thu., Dec. 3: Bayesian networks
 - Thu., Dec. 10: Machine Learning
 - Tue., Dec. 15: Machine Learning
+- Tue., Dec. 22: Machine Learning
 
 ## Lecture slides
 
