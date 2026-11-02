@@ -59,4 +59,4 @@
 1. [Search problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/AI_Exercises_Search_problems.pdf?raw=1)
 2. Knowledge and reasoning: logical languages (available soon)
 3. Bayesian networks (available soon)
-4. Machine learning (available soon)
+4. [Machine learning - decision trees](https://github.com/unica-ai/unica-ai.github.io/blob/main/exercises/ML_Exercises_decision_trees_id3.pdf?raw=1)
