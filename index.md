@@ -25,14 +25,14 @@
 - Thu., Oct. 29: Knowledge and reasoning: logical languages
 - Tue., Nov. 3: Machine Learning
 - Thu., Nov. 5: Knowledge and reasoning: logical languages
-- Tue., Nov. 10: Knowledge and reasoning: logical languages
-- Thu., Nov. 12: Machine Learning
-- Thu., Nov. 19: Knowledge and reasoning under uncertainty: probabilistic models
+- Tue., Nov. 10: Machine Learning
+- Thu., Nov. 12: Knowledge and reasoning: logical languages
+- Thu., Nov. 19: Machine Learning
 - Tue., Nov. 24: Machine Learning
-- Thu., Nov. 26: Bayesian networks
+- Thu., Nov. 26: Knowledge and reasoning under uncertainty: probabilistic models
 - Tue., Dec. 1st: Machine Learning
 - Thu., Dec. 3: Bayesian networks
-- Thu., Dec. 10: Machine Learning
+- Thu., Dec. 10: Bayesian networks
 - Tue., Dec. 15: Machine Learning
 - Tue., Dec. 22: Machine Learning
 
@@ -43,7 +43,7 @@
 **Part I** – Problem-solving, Knowledge and Reasoning (G. Fumera)
 
 1. [Search problems](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/Search%20Problems.pdf?raw=1)
-2. [Knowledge and reasoning: logical languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/3_Knowledge%20and%20Reasoning_Logical%20Languages.pdf?raw=1) (1st part)
+2. [Knowledge and reasoning: logical languages](https://github.com/unica-ai/unica-ai.github.io/blob/main/slides/3_Knowledge%20and%20Reasoning_Logical%20Languages.pdf?raw=1) (**updated on Nov. 5**)
 3. Knowledge and reasoning under unertainty: probabilistic models (Bayesian networks) (slides available soon)
 
 **Part II** – Machine Learning (A. Demontis)
